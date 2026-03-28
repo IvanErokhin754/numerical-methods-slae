@@ -1,0 +1,7 @@
+n,k,method,time,residual,relative_error
+500,1,GaussPivot Total,0.20214,0,0
+500,1,LU Total,0.199915,0,0
+500,10,GaussPivot Total,2.0434,0,0
+500,10,LU Total,0.217518,0,0
+500,100,GaussPivot Total,20.6157,0,0
+500,100,LU Total,0.310316,0,0

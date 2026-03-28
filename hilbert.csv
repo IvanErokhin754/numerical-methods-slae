@@ -1,0 +1,10 @@
+n,k,method,time,residual,relative_error
+5,0,Gauss,0,0,2.73632e-13
+5,0,GaussPivot,0,2.22045e-16,4.62198e-13
+5,0,LU,0,4.96507e-16,1.14547e-11
+10,0,Gauss,0,4.57757e-16,0.000196009
+10,0,GaussPivot,0,7.4476e-16,0.000193143
+10,0,LU,0,7.85046e-16,0.000224478
+15,0,Gauss,0,nan,nan
+15,0,GaussPivot,0,nan,nan
+15,0,LU,0,nan,nan
